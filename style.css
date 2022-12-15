@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap');
+
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #FCF8F3;
+}
+
+p {
+    font-size: 1.13rem;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 2.4rem;
+}
+
+.navbar-nav {
+
+    padding: 0 10px;
+    font-size: 1.13rem;
+}
+
+.button-agendar {
+
+    background-color: #915B4A;
+    color: white;
+}
+
+.button-agendar:hover {
+
+    background-color: #A96851;
+    color: white;
+}
+
+.natalia {
+    width: 560px;
+}
+
+.texto {
+    max-width: 50%;
+    margin-left: 10%;
+}
+
+.aspas {
+
+    background-color: #A35638;
+    color: white;
+    font-size: 2.4rem;
+    height: 300px;
+    
+
+}
+
+.neurossistemica {
+
+    margin-top: 20%;
+}
+
+.terapia-1 {
+
+    width: 300px;
+    position: relative;
+    right: 65px;
+    top: 155px;
+
+}
+
+.terapia-2 {
+
+    width: 300px;
+    position: relative;
+    left: 220px;
+    bottom: 265px;
+}
+
+.ebook {
+
+    margin-top: 20%;
+    background-color: #A35638;
+    color: #FCF8F3;
+    padding-top: 30px;
+    
+}
+
+.formulario {
+    padding-right: 10%;
+}
+
+
+.form-control {
+   
+    height: 50px;
+    width: 250px;
+     
+}
+
+.foto-ebook {
+
+    width: 200px;
+    border-radius: 10px;
+    transform: rotate(20deg);
+    margin-right: 20%;
+    position: relative;
+    
+    
+}
+
+.btn-forms {
+    margin-left: 5px;
+    height: 50px;
+    background-color: #FCF8F3;
+} 
+
+.btn-forms:hover {
+
+    background-color: #DFCDC3; 
+
+}
+
+.depoimentos {
+    padding-top: 15%;
+    position: relative;
+    z-index: 1;
+    background-color: #FCF8F3;
+}
+
+.carrossel {
+    height: 400px;
+    padding-top: 5%;
+}
+
+.foto-logo {
+    margin-top: 25%;
+    width: 200px;
+}
+
+.copyride {
+    background-color: #A35638;
+    color: white;
+    height: 100px;
+    margin-top: 5%;
+
+}
